@@ -1,0 +1,11 @@
+
+body {background-color: rgba(197, 209, 223, 0.356);
+    text-align:center;}
+    
+    li {align-content:left;}
+    img {
+         display:block;
+         max-width: 100%;
+         height: auto;
+         background-color: #ffffff;
+    }
